@@ -3,8 +3,14 @@
   "displayName": "Retrobox Theme",
   "description": "A VS Code theme based on the Retrobox colorscheme for Vim.",
   "version": "1.0.0",
-  "publisher": "YourName",
+  "publisher": "ibrahim317",
+   "license": "MIT", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahim317/vecode-retrobox-theme.git"
+  },
   "engines": {
+
     "vscode": "^1.85.0"
   },
   "categories": [
