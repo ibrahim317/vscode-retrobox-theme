@@ -1,0 +1,7 @@
+# Exclude development and git related files
+.vscode/**
+.git/**
+.gitignore
+
+# Exclude node modules if you had any dev dependencies
+node_modules/**
