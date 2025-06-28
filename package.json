@@ -2,7 +2,7 @@
   "name": "retrobox-theme",
   "displayName": "Retrobox Theme",
   "description": "A VS Code theme based on the Retrobox colorscheme for Vim.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ibrahim317",
    "license": "MIT", 
   "repository": {
