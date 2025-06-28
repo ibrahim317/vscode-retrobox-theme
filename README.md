@@ -29,15 +29,19 @@
 
 ### 🌙 Dark Theme
 
-| JavaScript                               | Python                               |
-| ---------------------------------------- | ------------------------------------ |
-| ![JS Dark](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/dark/js.png) | ![Python Dark](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/dark/python.png) |
+#### JavaScript
+![JS Dark](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/dark/js.png)
+
+#### Python
+![Python Dark](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/dark/python.png)
 
 ### ☀️ Light Theme
 
-| Vue                                   | Python                                     |
-| ------------------------------------- | ------------------------------------------ |
-| ![Vue Light](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/light/vue.png) | ![Python Light](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/light/python.png) |
+#### Vue
+![Vue Light](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/light/vue.png)
+
+#### Python
+![Python Light](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/light/python.png)
 
 ---
 
