@@ -31,13 +31,13 @@
 
 | JavaScript                               | Python                               |
 | ---------------------------------------- | ------------------------------------ |
-| ![JS Dark](./screenshots/dark/js.png) | ![Python Dark](./screenshots/dark/python.png) |
+| ![JS Dark](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/dark/js.png) | ![Python Dark](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/dark/python.png) |
 
 ### ☀️ Light Theme
 
 | Vue                                   | Python                                     |
 | ------------------------------------- | ------------------------------------------ |
-| ![Vue Light](./screenshots/light/vue.png) | ![Python Light](./screenshots/light/python.png) |
+| ![Vue Light](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/light/vue.png) | ![Python Light](https://raw.githubusercontent.com/ibrahim317/vscode-retrobox-theme/main/screenshots/light/python.png) |
 
 ---
 
