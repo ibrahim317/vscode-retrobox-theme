@@ -1,0 +1,27 @@
+{
+  "name": "retrobox-theme",
+  "displayName": "Retrobox Theme",
+  "description": "A VS Code theme based on the Retrobox colorscheme for Vim.",
+  "version": "1.0.0",
+  "publisher": "YourName",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retrobox Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/retrobox-dark-color-theme.json"
+      },
+      {
+        "label": "Retrobox Light",
+        "uiTheme": "vs",
+        "path": "./themes/retrobox-light-color-theme.json"
+      }
+    ]
+  }
+}
